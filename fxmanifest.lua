@@ -28,10 +28,5 @@ files {
 
 dependencies {
   'ox_lib',
-}
-
-escrow_ignore {
-    'config.lua',
-    'locales/en.json',
-    'locales/pl.json',
+  'ox_inventory',
 }
