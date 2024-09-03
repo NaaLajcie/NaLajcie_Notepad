@@ -1,0 +1,20 @@
+{
+    "notifytitle": "Powiadomienie",
+    "createnote_title": "Utwórz notatkę",
+    "createnote_text_description": "Wprowadź tekst notatki",
+    "createnote_image_description": "Wprowadź URL obrazu (opcjonalnie)",
+    "createnote_password_description": "Wprowadź hasło do notatki (opcjonalnie)",
+    "createnote_save_checkbox": "Zapisz notatkę",
+    "invalid_image_url_title": "Nieprawidłowy URL obrazu",
+    "invalid_image_url_message": "Podany URL obrazu jest niedozwolony.",
+    "enter_password_title": "Wprowadź hasło do notatki",
+    "enter_password_description": "Hasło",
+    "access_denied_title": "Odmowa dostępu",
+    "access_denied_message": "Niepoprawne hasło.",
+    "read_note_title": "Notatka",
+    "note_exceeds_length": "Twoja notatka przekracza maksymalną długość.",
+    "note_quantity_label": "Wybierz liczbę notatek",
+    "note_with_text": "Kartka z notatką",
+    "note_empty": "Pusta kartka",
+    "note_encrypted": "Kartka z zaszyfrowaną wiadomością"
+}

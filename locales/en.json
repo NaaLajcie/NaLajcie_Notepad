@@ -1,0 +1,20 @@
+{
+    "notifytitle": "Notification",
+    "createnote_title": "Create Note",
+    "createnote_text_description": "Enter note text",
+    "createnote_image_description": "Enter image URL (optional)",
+    "createnote_password_description": "Enter note password (optional)",
+    "createnote_save_checkbox": "Save note",
+    "invalid_image_url_title": "Invalid Image URL",
+    "invalid_image_url_message": "The provided image URL is not allowed.",
+    "enter_password_title": "Enter Note Password",
+    "enter_password_description": "Password",
+    "access_denied_title": "Access Denied",
+    "access_denied_message": "Incorrect password.",
+    "read_note_title": "Note",
+    "note_exceeds_length": "Your note exceeds the maximum length.",
+    "note_quantity_label": "Select number of notes",
+    "note_with_text": "Note page with text",
+    "note_empty": "Empty page",
+    "note_encrypted": "Page with encrypted message"
+}
