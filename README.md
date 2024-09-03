@@ -29,7 +29,7 @@ These animations are linked to specific in-game objects (notebooks).
 - Writing and reading animations are based on the "prop_notepad_01" object and corresponding animations, ensuring visual consistency and a realistic feel.
 
 
-**Showcase Video:** [Click Here ](https://www.youtube.com/watch?v=vTR4nqzBiyI)
+**Showcase Video:** [Click Here ](https://www.youtube.com/watch?v=1hcTAReA758)
 
 ## Check out my other scripts
 **Tebex:** [Click Here](https://nalajcie-shop.tebex.io/package/5996109)
