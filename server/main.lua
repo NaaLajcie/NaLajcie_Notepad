@@ -5,7 +5,6 @@ RegisterNetEvent('nalajcie_notepad:newNote', function(text, imageUrl, password, 
     local xPlayer = ESX.GetPlayerFromId(source)
     local description = ""
 
-    -- Ustalanie opisu w zależności od zawartości notatki
     if password and password ~= "" then
         description = locale('note_encrypted')
     elseif text and text ~= "" then
@@ -19,9 +18,8 @@ RegisterNetEvent('nalajcie_notepad:newNote', function(text, imageUrl, password, 
         return
     end
 
-    quantity = tonumber(quantity) or 1 -- Upewnij się, że quantity jest liczbą
+    quantity = tonumber(quantity) or 1 
 
-    -- Dodaj właściwą ilość przedmiotów
     if quantity > 0 then
         xPlayer.addInventoryItem(Config.Setting.sheetItem, quantity, {
             text = text,
